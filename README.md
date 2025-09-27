@@ -1,4 +1,4 @@
-# GenAI_GCP
+# GenAI_GCP Assignment 1
 Created this repo for Assignment purpose
 # Real-Time Market Sentiment Analyzer Using LangChain + Google Gemini
 
